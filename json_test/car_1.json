@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Toyota Corolla",
+        "volume": 1.8,
+        "year": 2020,
+        "price": 1300000,
+        "power": 140,
+        "import_price": 200000,
+        "hybrid_type": "гибрид",
+        "vvoz": "standart",
+        "description": "Надежный и экономичный автомобиль с хорошей репутацией.",
+        "image_url": "https://yastatic.net/naydex/autoru/2C6pJj882/ff2468mPrO/0kNzh-jfaTQATwmHG59dXxrp8edYRhNukJJoyZCPn6BSb6Dy-I6HLxr2rsLJGNpijmRoykHTAUVwOVpOdoDsl5VEMoX7zX86UQhDm0_eCAhS9-e7HFkaVLv-SP67r7-cOFCB4KLI2TRRssaqxhHLTv9rCYINwngNf2xWMQTdrMzGRX6F1eAsNTRbb4gMq21QMqzZxUYFLXOWyFzOqIqvnhhNoNSx1M9KdaH_n7cu9F7vdA2PMuFAOW9hURAx_J_G3Uo",
+	"link": "https://auto.drom.ru/habarovsk/toyota/corolla/811370670.html"
+    }
+]
